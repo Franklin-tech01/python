@@ -1,0 +1,22 @@
+Boolean Values:
+While the integer, floating-point, and string data types have an unlimited
+number of possible values, the Boolean data type has only two values: True
+and False. (Boolean is capitalized because the data type is named after
+mathematician George Boole.) When entered as Python code, the Boolean
+values True and False lack the quotes you place around strings, and they
+always start with a capital T or F, with the rest of the word in lowercase.
+Enter the following into the interactive shell. (Some of these instructions
+are intentionally incorrect, and they’ll cause error messages to appear.)
+
+
+THE DIFFERENCE BETWEEN THE == AND = OPERATORS
+You might have noticed that the == operator (equal to) has two equal signs,
+while the = operator (assignment) has just one equal sign. It’s easy to confuse
+these two operators with each other. Just remember these points:
+• The == operator (equal to) asks whether two values are the same as
+each other.
+• The = operator (assignment) puts the value on the right into the variable
+on the left.
+To help remember which is which, notice that the == operator (equal to)
+consists of two characters, just like the != operator (not equal to) consists of
+two characters.
