@@ -3,7 +3,7 @@ mylist = ["banana", "cherry", "apple"]
 print(mylist)
 
 mylist2 = [5, True,"ball"]
-print(mylist2)
+print(mylist2) 
 
 #to get items from list using another variable
 item = mylist2[-2]
@@ -26,3 +26,4 @@ print(mylist)
 mylist.insert(1,"blueberry")
 print(mylist)
 # to remove an item from the list we use the pop method
+
